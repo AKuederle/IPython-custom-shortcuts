@@ -1,4 +1,4 @@
-define(['base/js/namespace']function(IPython){
+define(['base/js/namespace'],function(IPython){
     "use strict";
     var add_edit_shortcuts = {
         'Alt-3' : {
